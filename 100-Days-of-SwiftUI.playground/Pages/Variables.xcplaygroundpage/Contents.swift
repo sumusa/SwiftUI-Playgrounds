@@ -3,6 +3,21 @@
 let filename = "paris.jpg"
 print(filename.hasSuffix(".jpg"))
 
+// multiline strings
+let multiline = """
+this is a
+multiline
+string
+"""
+print(multiline)
+
+let multiOnelinePrint = """
+this is a \
+multiline \
+string
+"""
+print(multiOnelinePrint)
+
 let number = 120
 print(number.isMultiple(of: 3))
 let isMultiple = 120.isMultiple(of: 3)

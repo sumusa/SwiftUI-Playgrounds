@@ -4,7 +4,8 @@
         <page name='Variables'/>
         <page name='Complex Data'/>
         <page name='Type Inference'/>
-        <page name='Conditional Statements'/>
+        <page name='Conditions'/>
         <page name='Loops'/>
+        <page name='Functions'/>
     </pages>
 </playground>
